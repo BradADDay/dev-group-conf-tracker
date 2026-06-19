@@ -5,4 +5,9 @@ This is the readme for dev  group conf tracker
 ### Contributors
 
 - Joe Hall
-- Ivano Saccheo
+- Gloria Raharimbolamena
+- Tom Higginson
+- Mark Taylor
+- Darius Michienzi
+-Ivano Saccheo
+
