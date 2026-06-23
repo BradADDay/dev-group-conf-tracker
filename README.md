@@ -10,3 +10,6 @@ This is the readme for dev  group conf tracker
 - Mark Taylor
 - Darius Michienzi
 - Alice Guskov
+- Bradley Day
+- Ivano Saccheo
+- Shashanth Sriramanathan
