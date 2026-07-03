@@ -13,4 +13,3 @@ This is the readme for dev  group conf tracker
 - Bradley Day
 - Ivano Saccheo
 - Shashanth Sriramanathan
-- Misia Maksymowicz-Maciata
